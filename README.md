@@ -1,19 +1,11 @@
-Simple Git Exercices
+Exercices Git
 ====================
 
-Theses are very simple exercices to learn to manipulate git.
+Il s'agit d'exercices très simples pour apprendre à manipuler git.
 
-These are not even real exercices, more like DIY guides to learn to handle
-very common situations.
+Ce ne sont même pas de vrais exercices, mais plutôt des guides de bricolage pour apprendre à manipuler des situations très courantes.
 
-In each folder, simply run ./create.sh and follow the guide ;)
+Dans chaque dossier, il suffit de lancer ./create.sh et de suivre le guide ;)
 
-*The create script in each folder will completely reset the exercice.*  
-If you want to re-read the instructions of the exercice, just cat
-the file readme.txt.
-
------
-
-If you enjoyed those exercices, I strongly encourage you to look further
-into Git as those are very simple situations and there are loads of
-tips and tricks that these exercices do not cover.
+*Le script create dans chaque dossier réinitialisera complètement l'exercice.*  
+Si vous voulez relire les instructions de l'exercice, il suffit d'ouvrir le fichier readme.txt.
