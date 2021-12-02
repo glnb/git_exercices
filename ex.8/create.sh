@@ -26,5 +26,5 @@ function _ex() {
     git commit -am "WIP"
 }
 
-_create _ex
+_ex
 

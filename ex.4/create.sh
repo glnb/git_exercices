@@ -15,5 +15,5 @@ function _ex() {
     echo "A B C D F G" >> second.txt
 }
 
-_create _ex
+_ex
 

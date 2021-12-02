@@ -12,5 +12,5 @@ function _ex() {
     touch out/conf.ini
 }
 
-_create _ex
+_ex
 
