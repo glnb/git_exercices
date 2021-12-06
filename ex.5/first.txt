@@ -1,8 +1,4 @@
 one
 two
 one
-<<<<<<< HEAD
 three
-=======
-two
->>>>>>> c35d220ea4c5d2e3b15fac1c719f4beb2b52c8ff
